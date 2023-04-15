@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/Shoe-website-landing-page-style/static/js/main.5ab29419.js",
+    "static/media/shoe.png": "/Shoe-website-landing-page-style/static/media/shoe.7f57e65263d981dad5e3.png",
+    "static/media/logoShoe.png": "/Shoe-website-landing-page-style/static/media/logoShoe.ae76dd0c0d7634e1c0e3.png",
+    "static/media/ellipse.png": "/Shoe-website-landing-page-style/static/media/ellipse.a900eeb1ddfb79b7be5d.png",
+    "index.html": "/Shoe-website-landing-page-style/index.html",
+    "main.5ab29419.js.map": "/Shoe-website-landing-page-style/static/js/main.5ab29419.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5ab29419.js"
+  ]
+}
